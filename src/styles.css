@@ -31,7 +31,7 @@ p {
 .hero {
   background: #f9f7fe;
   text-align: center;
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 .hero p {
   font-family: "Poppins", sans-serif;
@@ -58,7 +58,7 @@ p {
   width: 500px;
 }
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 .content-container h1 {
   font-size: 64px;
@@ -152,6 +152,9 @@ footer {
   }
   .content-container {
     text-align: center;
-    padding: 160px 20px;
+    padding: 60px 20px;
+  }
+  .email-link {
+    font-size: 18px;
   }
 }
